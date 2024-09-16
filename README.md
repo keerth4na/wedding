@@ -1,0 +1,1 @@
+Wrote a wedding RSVP web application, including client side and server side elements. The functionality of this web application is that it add and remove guests and guest details including plus ones and dietary restrictions, while also being able to provide a summary of the guests, even after reloading the page. 
